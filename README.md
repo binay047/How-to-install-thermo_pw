@@ -5,7 +5,7 @@
 * Extract it
 * Cut the thermo_pw folder and paste it inside the QE folder, where there are lots of other files and folders.
 * Now, go inside thermo_pw, which is inside the QE folder, and there are lots of other files and folders
-* Open Terminal
+* Open Terminal and type the code
 * make join_qe 
 * cd ..
 * ./configure
